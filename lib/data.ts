@@ -71,11 +71,11 @@ export const projectsData = [
     imageUrl: "/foodil.png",
   },
     {
-    title: "Word Analytics",
+    title: "Premium Deliveries",
     description:
-      "Delivery management platform with driver assignment,map-based location selection, routing, order tracking, and driver/order details using React Leaflet maps.",
+      "Delivery management platform streamlines the entire delivery process. Users can add, upload, and track orders in real-time, while administrators assign orders to drivers and monitor vehicle locations for efficient routes. The system also includes a map interface for easy location selection and order detail entry, enhancing overall efficiency and transparency. ",
     tags: ["React", "Next.js", "Javascript", "Tailwind", "Redux tool kit"],
-    imageUrl: "/",
+    imageUrl: "/maxoprta.png",
   },
   {
     title: "Tracker",
