@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
     {
-    title: "Full-Stack Developer",
+    title: "Front-End Developer",
     location: "Focus IT Services, Islamabad",
     description:
       "My responsibilities included translating design concepts into responsive and visually compelling user interfaces, ensuring a seamless user experience.Collaborating closely with cross-functional teams, I consistently delivered high-quality.",
